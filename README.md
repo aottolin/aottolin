@@ -4,8 +4,11 @@
 - 🧠 I have an interest in Artificial Intelligence.
 - 📫 How to reach me: alexistottolini@hotmai.com
 - ⚡ I love tennis and make time with friends.
-
-Software Development:
+  
+  Software Development:
+  
+My own project:
+**Workers_hs:** A personal project to solved a problem to control extra hours in my work.
 
 **Libft:** project that replicates all functions of the C library
 
@@ -23,5 +26,3 @@ Software Development:
 built-in commands, signal handling, and memory management to prevent errors.
 
 **Philosophers:** this project is a training to multi-threads/multi-process programming with the use of mutex
-Other projects:
-**Workers_hs:** A personal project to solved a problem to control extra hours in my work.
