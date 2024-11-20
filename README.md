@@ -7,6 +7,7 @@
 
 Software Development:
 Libft: project that replicates all functions of the C library
+
 Ft_printf: program that replicates printf
 Get next line: project that reads from file descriptor line by line
 So_long: 2D videogame
